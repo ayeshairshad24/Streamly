@@ -57,17 +57,18 @@ Streamly/
 
 ## 📸 Screenshots
 
-<details>
-<summary>Click to view screenshots</summary>
+### 🔐 Login Screen
+![Login](screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25.jpeg)
 
-<p align="center">
-  <img src="screenshots/login.jpg" width="220" />
-  <img src="screenshots/home.jpg" width="220" />
-  <img src="screenshots/movie.jpg" width="220" />
-  <img src="screenshots/tv.jpg" width="220" />
-</p>
+### 🏠 Home Screen
+![Home](screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25%20(2).jpeg)
 
-</details>
+### 🎬 Movie Details
+![Movie](screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25%20(3).jpeg)
+
+### 📺 TV Show Details
+![TV Show](screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25%20(4).jpeg)
+
 
 
 
