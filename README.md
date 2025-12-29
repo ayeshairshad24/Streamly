@@ -57,9 +57,6 @@ Streamly/
 
 ## 📸 Screenshots
 
-<details>
-<summary>Click to view screenshots</summary>
-
 <p align="center">
   <img src="screenshots/login.jpg" width="220" />
   <img src="screenshots/home.jpg" width="220" />
@@ -67,6 +64,5 @@ Streamly/
   <img src="screenshots/tv.jpg" width="220" />
 </p>
 
-</details>
 
 
