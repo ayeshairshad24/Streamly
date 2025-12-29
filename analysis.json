@@ -1,0 +1,31 @@
+﻿Analyzing Streamly...                                           
+
+   info - The file name 'MainScreen.dart' isn't a lower_case_with_underscores identifier - lib\Screens\MainScreen.dart:1:1 - file_names
+   info - Use 'const' with the constructor to improve performance - lib\Screens\MainScreen.dart:99:22 - prefer_const_constructors
+warning - Unused import: '/Services/extra_services.dart' - lib\Screens\movie_screen.dart:9:8 - unused_import
+  error - The method 'LaunchUrl' isn't defined for the type '_MovieScreenState' - lib\Screens\movie_screen.dart:146:62 - undefined_method
+  error - The method 'pshowDialog' isn't defined for the type '_MovieScreenState' - lib\Screens\movie_screen.dart:152:43 - undefined_method
+warning - Unused import: '/Screens/profile_screen.dart' - lib\Screens\nav_screen.dart:4:8 - unused_import
+warning - Unused import: '/Screens/search_screen.dart' - lib\Screens\nav_screen.dart:6:8 - unused_import
+warning - Unused import: '/Widgets/bottom_nav_bar.dart' - lib\Screens\nav_screen.dart:7:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\Screens\profile_screen.dart:147:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\Screens\profile_screen.dart:160:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\Screens\profile_screen.dart:261:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\Screens\profile_screen.dart:263:53 - deprecated_member_use
+  error - The method '_searchResult' isn't defined for the type '_SearchScreenState' - lib\Screens\search_screen.dart:119:31 - undefined_method
+warning - Unused import: '/Models/tv_show_detail.dart' - lib\Screens\tv_show_screen.dart:4:8 - unused_import
+warning - Unused import: '/Services/extra_services.dart' - lib\Screens\tv_show_screen.dart:11:8 - unused_import
+  error - The method 'LaunchUrl' isn't defined for the type '_TVShowScreenState' - lib\Screens\tv_show_screen.dart:156:62 - undefined_method
+  error - The method 'pshowDialog' isn't defined for the type '_TVShowScreenState' - lib\Screens\tv_show_screen.dart:162:43 - undefined_method
+   info - The constant name 'api_key' isn't a lowerCamelCase identifier - lib\Services\key.dart:1:14 - constant_identifier_names
+   info - Invalid use of a private type in a public API - lib\Widgets\bottom_nav_bar.dart:13:3 - library_private_types_in_public_api
+warning - Unused import: '/Widgets/loading_screen.dart' - lib\Widgets\carousel_card.dart:6:8 - unused_import
+  error - The method 'LandingCard' isn't defined for the type 'CustomCarouselSlider' - lib\Widgets\carousel_card.dart:32:22 - undefined_method
+   info - The variable name 'TextContainer' isn't a lowerCamelCase identifier - lib\Widgets\detail_screen_components.dart:4:8 - non_constant_identifier_names
+   info - The variable name 'CircularButtons' isn't a lowerCamelCase identifier - lib\Widgets\detail_screen_components.dart:24:8 - non_constant_identifier_names
+   info - The variable name 'TitleText' isn't a lowerCamelCase identifier - lib\Widgets\detail_screen_components.dart:45:8 - non_constant_identifier_names
+   info - The variable name 'Id' isn't a lowerCamelCase identifier - lib\Widgets\movie_card.dart:10:16 - non_constant_identifier_names
+   info - Use 'const' with the constructor to improve performance - lib\Widgets\search_list.dart:86:26 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\Widgets\search_list.dart:93:18 - prefer_const_constructors
+   info - The variable name 'SectionText' isn't a lowerCamelCase identifier - lib\Widgets\section_text.dart:4:8 - non_constant_identifier_names
+
