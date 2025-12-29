@@ -57,17 +57,27 @@ Streamly/
 
 ## 📸 Screenshots
 
-### 🔐 Login Screen
-<img src="screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25.jpeg" alt="Login" width="300"/>
+<table>
+  <tr>
+    <td align="center">
+      🔐 Login Screen<br>
+      <img src="screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25.jpeg" alt="Login" width="200"/>
+    </td>
+    <td align="center">
+      🏠 Home Screen<br>
+      <img src="screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25%20(2).jpeg" alt="Home" width="200"/>
+    </td>
+    <td align="center">
+      🎬 Movie Details<br>
+      <img src="screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25%20(3).jpeg" alt="Movie" width="200"/>
+    </td>
+    <td align="center">
+      📺 TV Show Details<br>
+      <img src="screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25%20(4).jpeg" alt="TV Show" width="200"/>
+    </td>
+  </tr>
+</table>
 
-### 🏠 Home Screen
-<img src="screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25%20(2).jpeg" alt="Home" width="300"/>
-
-### 🎬 Movie Details
-<img src="screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25%20(3).jpeg" alt="Movie" width="300"/>
-
-### 📺 TV Show Details
-<img src="screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25%20(4).jpeg" alt="TV Show" width="300"/>
 
 
 
