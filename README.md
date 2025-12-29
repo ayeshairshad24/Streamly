@@ -31,41 +31,42 @@ It allows users to explore popular, top-rated, now-playing movies, and trending 
 ## 📂 Project Structure
 Streamly/
 │
-├── android/              # Android-specific native configuration
-├── ios/                  # iOS-specific native configuration
-├── linux/                # Linux desktop support
-├── macos/                # macOS desktop support
-├── web/                  # Web support files
+├── android/ # Android-specific native configuration
+├── ios/ # iOS-specific native configuration
+├── linux/ # Linux desktop support
+├── macos/ # macOS desktop support
+├── web/ # Web support files
 │
-├── assets/               # Images, icons, animations (Lottie, PNG, JPG)
+├── assets/ # Images, icons, animations (Lottie, PNG, JPG)
 │
-├── lib/                  # Main application source code
-│   ├── Models/           # Data models (Movies, TV Shows, Episodes, etc.)
-│   ├── Screens/          # UI screens (Login, Home, Movie, TV Show, Profile)
-│   ├── Services/         # API calls, authentication, helpers
-│   ├── Widgets/          # Reusable UI components
-│   ├── routes.dart       # App navigation routes
-│   ├── firebase_options.dart # Firebase configuration
-│   └── main.dart         # App entry point
+├── lib/ # Main application source code
+│ ├── Models/ # Data models (Movies, TV Shows, Episodes, etc.)
+│ ├── Screens/ # UI screens (Login, Home, Movie, TV Show, Profile)
+│ ├── Services/ # API calls, authentication, helpers
+│ ├── Widgets/ # Reusable UI components
+│ ├── routes.dart # App navigation routes
+│ ├── firebase_options.dart # Firebase configuration
+│ └── main.dart # App entry point
 │
-├── test/                 # Widget and unit tests
+├── test/ # Widget and unit tests
 │
-├── pubspec.yaml          # Project dependencies & assets configuration
-├── pubspec.lock          # Locked dependency versions
-├── README.md             # Project documentation
-└── .gitignore            # Files ignored by Git
+├── pubspec.yaml # Project dependencies & assets configuration
+├── pubspec.lock # Locked dependency versions
+├── README.md # Project documentation
+└── .gitignore # Files ignored by Git
+
 ## 📸 Screenshots
 
-### 🔐 Login Screen
-![Login](screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25.jpeg)
+<details>
+<summary>Click to view screenshots</summary>
 
-### 🏠 Home Screen
-![Home](screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25%20(2).jpeg)
+<p align="center">
+  <img src="screenshots/login.jpg" width="220" />
+  <img src="screenshots/home.jpg" width="220" />
+  <img src="screenshots/movie.jpg" width="220" />
+  <img src="screenshots/tv.jpg" width="220" />
+</p>
 
-### 🎬 Movie Details
-![Movie](screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25%20(3).jpeg)
-
-### 📺 TV Show Details
-![TV Show](screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25%20(4).jpeg)
+</details>
 
 
