@@ -54,5 +54,18 @@ Streamly/
 ├── pubspec.lock          # Locked dependency versions
 ├── README.md             # Project documentation
 └── .gitignore            # Files ignored by Git
+## 📸 Screenshots
+
+### 🔐 Login Screen
+![Login](screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25.jpeg)
+
+### 🏠 Home Screen
+![Home](screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25%20(2).jpeg)
+
+### 🎬 Movie Details
+![Movie](screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25%20(3).jpeg)
+
+### 📺 TV Show Details
+![TV Show](screenshots/WhatsApp%20Image%202025-12-29%20at%2009.50.25%20(4).jpeg)
 
 
